@@ -4,6 +4,6 @@ Test Learning Git interface w GitKraken
 *Edit this
 
 
-Release Da Kraken!!
+Release the Kraken!!
 
 Disclaimer: Nothing here is intended to infringe existing copyrighted material nor does it represent USG opinions.
